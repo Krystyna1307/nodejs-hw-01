@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "95dc8381-0eb3-4480-9b73-93bc78ae6914",
+    "name": "Christie Baumbach",
+    "phone": "635.411.6200 x102",
+    "email": "Brad_Batz@hotmail.com",
+    "job": "Lead Accounts Architect"
+  },
+  {
+    "id": "f2f8d9ba-73eb-4ae8-8426-2dd3f4b4ee0b",
+    "name": "Leslie Kiehn",
+    "phone": "437-764-5460 x999",
+    "email": "Susana_Funk36@gmail.com",
+    "job": "Forward Accountability Orchestrator"
+  }
+]

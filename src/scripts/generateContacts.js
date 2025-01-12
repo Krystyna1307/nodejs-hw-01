@@ -19,4 +19,4 @@ const generateContacts = async (number) => {
   }
 };
 
-generateContacts(1);
+generateContacts(2);

@@ -16,8 +16,3 @@ export const addOneContact = async () => {
   }
 };
 addOneContact();
-
-// Викликаємо функцію
-// (async () => {
-//   await addOneContact();
-// })();
